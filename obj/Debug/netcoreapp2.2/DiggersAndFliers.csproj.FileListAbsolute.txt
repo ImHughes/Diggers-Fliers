@@ -1,0 +1,11 @@
+C:\Users\hughes\backend\DiggersAndFliers\bin\Debug\netcoreapp2.2\DiggersAndFliers.deps.json
+C:\Users\hughes\backend\DiggersAndFliers\bin\Debug\netcoreapp2.2\DiggersAndFliers.runtimeconfig.json
+C:\Users\hughes\backend\DiggersAndFliers\bin\Debug\netcoreapp2.2\DiggersAndFliers.runtimeconfig.dev.json
+C:\Users\hughes\backend\DiggersAndFliers\bin\Debug\netcoreapp2.2\DiggersAndFliers.dll
+C:\Users\hughes\backend\DiggersAndFliers\bin\Debug\netcoreapp2.2\DiggersAndFliers.pdb
+C:\Users\hughes\backend\DiggersAndFliers\obj\Debug\netcoreapp2.2\DiggersAndFliers.csprojAssemblyReference.cache
+C:\Users\hughes\backend\DiggersAndFliers\obj\Debug\netcoreapp2.2\DiggersAndFliers.csproj.CoreCompileInputs.cache
+C:\Users\hughes\backend\DiggersAndFliers\obj\Debug\netcoreapp2.2\DiggersAndFliers.AssemblyInfoInputs.cache
+C:\Users\hughes\backend\DiggersAndFliers\obj\Debug\netcoreapp2.2\DiggersAndFliers.AssemblyInfo.cs
+C:\Users\hughes\backend\DiggersAndFliers\obj\Debug\netcoreapp2.2\DiggersAndFliers.dll
+C:\Users\hughes\backend\DiggersAndFliers\obj\Debug\netcoreapp2.2\DiggersAndFliers.pdb
